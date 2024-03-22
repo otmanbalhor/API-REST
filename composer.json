@@ -1,0 +1,7 @@
+{
+    "name": "acme/api-rest",
+    "description": "Description de votre projet",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
